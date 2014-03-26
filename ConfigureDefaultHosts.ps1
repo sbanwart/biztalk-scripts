@@ -28,10 +28,10 @@ $DEFAULT_HOST = "BizTalkServerApplication"
 $SERVER_NAME = ""
 
 # Default BizTalk application users group
-$NT_GROUP_NAME = ""
+$NT_GROUP_NAME = ''
 
 # Default BizTalk service credentials
-$IN_PROCESS_USERNAME = ""
+$IN_PROCESS_USERNAME = ''
 $IN_PROCESS_PASSWORD = ""
 
 $ISOLATED_HOST_USERNAME = $IN_PROCESS_USERNAME
