@@ -1,7 +1,7 @@
 biztalk-scripts
 ===============
 
-A PowerShell script for creating and configuring a set of hosts, host instances and send/receive handlers. This is a pure PowerShell implmentation with no dependencies outside of PowerShell and BizTalk.
+A PowerShell script for creating and configuring a set of hosts, host instances and send/receive handlers. This is a pure PowerShell implementation with no dependencies outside of PowerShell and BizTalk.
 
 Usage
 -----
